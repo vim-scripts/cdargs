@@ -1,0 +1,12 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2466
+
+Reads your cdargs bookmark file ("~/.cdargs") and provides a couple commands:
+  Cdb - Change directory to bookmark
+  Eb - Edit file in bookmark directory
+  Tb - Edit file in a new tab
+
+Homepage: http://github.com/gaffneyc/vim-cdargs/
+
+CDargs: http://www.skamphausen.de/cgi-bin/ska/CDargs
+
+
